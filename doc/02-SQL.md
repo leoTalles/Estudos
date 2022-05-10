@@ -15,5 +15,5 @@ Pra exemplificar a parada, imagina que em uma escola tenha um banco de dados com
 ![exemplo](/doc/img/database%20relacional.png)
 *Imagem retirada do Instituto Federal Rio Grande do Sul.*
 
-Para utilizar um banco de dados precisamos de uma **linguagem de comunicação**, e nesse caso usarei SQL (Structured Query Language). Existem diversos tipos de SGBD (Sistema Gerenciador de Banco de Dados) como MySQL, MariaDB, DBeaver, entre outros.
+Para utilizar um banco de dados precisamos de uma **linguagem de comunicação**, e nesse caso usarei SQL (Structured Query Language). Existem diversos tipos de SGBD (Sistema Gerenciador de Banco de Dados) como MySQL, MariaDB, entre outros.
 
