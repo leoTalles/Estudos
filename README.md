@@ -10,7 +10,7 @@ No final do README, deixarei um link para o repositório com os códigos dos exe
 
 [01 - Python](/doc/01-Python.md) (Doing)
 
-[02 - SQL](/doc/02-SQL.md) (TO/DO)
+[02 - SQL](/doc/02-SQL.md) (Doing)
 
 
 
